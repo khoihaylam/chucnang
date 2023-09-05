@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.forms{
+    background: white;
+    border-radius: 5px;
+    max-width: 600px;
+    padding: 20px;
+    margin: 100px auto;
+    text-align: center;
+    box-shadow:0 0 20px rgba(0,0,0);
+}
+input[type=email]{
+    background: white;
+    border-radius: 5px;
+    box-shadow:0 0 10px rgba(0,0,0,.2) ;
+}
+input[type=password]{
+    background: white;
+    border-radius: 5px;
+    box-shadow:0 0 10px rgba(0,0,0,.2) ;
+}
+.forms >.submit{
+    background: green;
+    color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+    border: 0;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: .5s;
+}
+.forms >.submit:hover{
+    background: white;
+}
+/* xong css */
+/* easy */
+/* day sau */
+#ten{
+   color: red;
+}
+#matkhau{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
